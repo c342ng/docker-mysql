@@ -1,1 +1,1 @@
-FROM msyql:5.7.17
+FROM mysql:5.7.17
